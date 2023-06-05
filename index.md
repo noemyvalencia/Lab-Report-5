@@ -24,8 +24,10 @@ Here we can see that the big was fixed and it was the CPATH in the file grade.sh
 * What was needed was referring to the JUnit library correctly with the right bash command from grade.sh.
 * This is what grade.sh looked like before fixing it.
 * ![Image](Screenshot 2023-06-05 at 1.35.40 PM.png)
-* I ran the bugged code with 'bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-lab3'
-* The only thing to edit was the CPATH, which was not correctly referring to JUnit. Adding 'lib/' to the command fixes the bug.
+* I ran the bugged code with `bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-lab3`
+* The only thing to edit was the CPATH, which was not correctly referring to JUnit. Adding `lib/` to the command fixes the bug.
+
+
 ---
 
 # Part 2: Reflexion.
