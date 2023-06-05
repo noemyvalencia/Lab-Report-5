@@ -12,7 +12,7 @@
 ![Image](Screenshot 2023-06-05 at 1.28.30 PM.png)
 
 # 2: Fixed bug:
-![Image]()
+![Image](Screenshot 2023-06-05 at 1.37.59 PM.png)
 
 # 3: Information:
 * What was needed was referring to the JUnit library correctly with the right bash command from grade.sh.
