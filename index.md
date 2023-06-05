@@ -8,7 +8,7 @@
 
 # 1: TA Response and thread: 
 ![Image](Screenshot 2023-06-05 at 1.18.42 PM.png)
-![Image]()
+![Image](Screenshot 2023-06-05 at 1.24.47 PM.png)
 ![Image]()
 
 # 2: Fixed bug:
