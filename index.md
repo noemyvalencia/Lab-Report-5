@@ -3,7 +3,7 @@
 # Part 1: EdStem Conversation.
 
 # Student question: 
-![Image]()
+![Image](Screenshot 2023-06-05 at 1.07.40 PM.png)
 ![Image]()
 
 # 1: TA Response and thread: 
