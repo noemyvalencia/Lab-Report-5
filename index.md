@@ -7,8 +7,13 @@
 ![Image](Screenshot 2023-06-05 at 1.08.05 PM.png)
 
 # 1: TA Response and thread: 
+* TA:
 ![Image](Screenshot 2023-06-05 at 1.18.42 PM.png)
+
+* Student:
 ![Image](Screenshot 2023-06-05 at 1.24.47 PM.png)
+
+* TA:
 ![Image](Screenshot 2023-06-05 at 1.28.30 PM.png)
 
 # 2: Fixed bug:
